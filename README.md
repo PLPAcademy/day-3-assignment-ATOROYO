@@ -108,6 +108,8 @@ B) Server Only
 C) Full
 D) Custom
 
+**Answer:** **D**
+
 Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
