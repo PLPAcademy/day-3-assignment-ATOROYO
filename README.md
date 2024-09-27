@@ -32,6 +32,8 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
+**Answer:** **B**
+
 4. What command is used to run a newly created Flutter app?
 
 A) flutter start
