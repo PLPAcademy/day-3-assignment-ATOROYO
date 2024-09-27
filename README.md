@@ -126,6 +126,8 @@ B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
 
+**Answer:** **B**
+
 How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins
