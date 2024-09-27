@@ -61,6 +61,8 @@ B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
 
+**Answer:** **C**
+
 How do you verify Python installation on any system?
 
 A) By running python --version
