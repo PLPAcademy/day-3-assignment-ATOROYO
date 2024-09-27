@@ -99,6 +99,8 @@ B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
 
+**Answer:** **B**
+
 What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
